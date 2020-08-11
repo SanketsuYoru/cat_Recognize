@@ -7,4 +7,4 @@ A four-layer (128 * 64 * 32 * 1) DNN model is implemented
 
 Training set accuracy：100%
 
-Test set accuracy：78.0%
+Test set accuracy：81.0%
